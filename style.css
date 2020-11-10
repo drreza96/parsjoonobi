@@ -1,0 +1,27 @@
+#header{
+  border-radius: 5px; background-color: black;
+  margin: 10px;
+  height: 60px;
+}
+h2{
+  text-align:center;
+  text-shadow: 2px 2px 3px
+}
+body{
+  background-color: yellow;
+  color: white;
+}
+p{
+  background-color: black;
+  font-size: 17px;
+  border: solid 5px;
+}
+#singlimg{
+  display: block;
+  margin: auto;
+  width: 150px; height: 150px;
+}
+div{
+  border: solid 5px;
+  background-color:black;
+}
